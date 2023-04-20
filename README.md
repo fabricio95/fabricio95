@@ -1,5 +1,5 @@
 ### Olá! Me Chamo Paulo Melo
-### I Am Dev Fullstack and QA!
+### I Am Dev Fullstack!
 
 <div>
   <a href="https://github.com/fabricio95">

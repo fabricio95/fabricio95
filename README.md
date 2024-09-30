@@ -1,5 +1,5 @@
 ### Olá! Me Chamo Paulo Melo
-### I Am  Front End and Developer Outsystems!
+### I Am QA and Front End !
 
 <div>
   <a href="https://github.com/fabricio95">

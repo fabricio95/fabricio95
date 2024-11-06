@@ -15,6 +15,10 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Rafa-Csharp" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Rafa-Csharp" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
+  <img align="center" alt="Rafa-Csharp" height="30" width="40   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" />
+          
+          
+  
           
   
   

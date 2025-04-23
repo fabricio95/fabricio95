@@ -9,10 +9,9 @@
 </div>
 
   <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-javascript" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Rafa-azure-sql" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-  <img align="center" alt="Rafa-AZURE" height="30" width="40"   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
-  <img align="center" alt="Rafa-AWS" height="30" width="40"  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />  
+    <img align="center" alt="Rafa-javascript" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> 
+    <img align="center" alt="Rafa-AWS" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+    <img align="center" alt="Rafa-node" height="30" width="40"  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="center" alt="Rafa-AWS" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
           
           
